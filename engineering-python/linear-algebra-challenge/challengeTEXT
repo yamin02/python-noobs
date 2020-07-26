@@ -1,0 +1,16 @@
+In this exercise, you will fit a wave by finding the unknown parameters of the equation
+
+y=a sin(πt)+b sin(2πt)+c sin(3πt)+d sin(4πt)
+
+using the four data below :
+(t0,y0)=(0.25,3)
+.
+.
+.
+
+Problem statement #
+By substituting the values given above, form a system of four linear 
+equations and solve for the unknown parameters: a, b, ca,b,c and dd
+
+Create a plot of the wave for tt going from 00 to 11. Show the four
+ measurements given above with dots. Add legends to your graphs as well.
